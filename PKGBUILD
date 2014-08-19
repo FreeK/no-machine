@@ -2,7 +2,7 @@
 # Contributor: olav-st <olav.s.th@gmail.com>
 
 pkgname=nomachine
-pkgver=4.2.27_1
+pkgver=4.2.27
 pkgrel=1
 pkgdesc="Remote desktop application"
 url="http://www.nomachine.com"
